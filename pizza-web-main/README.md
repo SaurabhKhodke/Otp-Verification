@@ -89,27 +89,24 @@ Contributions to the Pizza House Management System are welcome! Here's how you c
 
 This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute this project in accordance with the terms of the license.
 
-## SIGN-UP/REGISTERATION PAGE
-![SIGN-UP](assets/sign-in.png)
+![Database Schema](assets/database.png)
 
-## OTP SENT TO EMAIL
-![OTP](assets/otp.png)
+![Login Page](assets/login.png)
 
-## OTP VERIFIED
-![OTP VERIFIED](assets/verify-otp.png)
+![OTP Verification](assets/otp.png)
 
-## DATABASE
-![DATABASE](assets/database.png)
+![Pizza Site](assets/pizza.png)
 
-## LOGIN PAGE
-![LOGIN PAGE](assets/login.png)
+![Pizza Site 2](assets/pizza2.png)
 
-## LOGIN SUCCESSFUL
-### WELCOME TO THE PIZZA SITE
-![PIZZA SITE](assets/pizza.png)
-![PIZZA SITE](assets/pizza2.png)
-![PIZZA SITE](assets/pizza3.png)
-![PIZZA SITE](assets/pizza4.png)
+![Pizza Site 3](assets/pizza3.png)
+
+![Pizza Site 4](assets/pizza4.png)
+
+![Sign-in Page](assets/sign-in.png)
+
+![OTP Verification Page](assets/verify-otp.png)
+
 
 
 
